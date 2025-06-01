@@ -1,4 +1,5 @@
 ## 📊 Salar Store Annual Report Dashboard - 2022
+# Project Objective
 This project showcases a comprehensive Excel-based data visualization dashboard for Salar Store's annual performance in 2022. The dashboard provides key business insights such as:
 ## Dataset used
 -<a href="https://github.com/ARMAN1AD/Salar-Store-Data-Analysis/blob/main/Salar%20Store%20Data%20Analysis.xlsx>Dataset view</a>
