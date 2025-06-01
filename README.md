@@ -3,7 +3,7 @@
 
 The Vrinda Store wants to create annual sales report for 2022. So that, the owner of the Vrinda store can understand their customers and grow more sales in 2023 & 2024.
 ## Dataset used
-<a herf="https://github.com/ARMAN1AD/Salar-Store-Data-Analysis/blob/main/Salar%20Store%20Data%20Analysis.xlsx ">Dataset</a>
+<a href="https://github.com/ARMAN1AD/Salar-Store-Data-Analysis/blob/main/Salar%20Store%20Data%20Analysis.xlsx ">Dataset</a>
 
 ## Questions (KPIs)
 
@@ -16,7 +16,7 @@ The Vrinda Store wants to create annual sales report for 2022. So that, the owne
 - Which Channel is contributing maximum to the sales?
 - Highest selling category?
 - Percentage of Total Orders delivered
-- Dashboard interaction <a herf="https://github.com/ARMAN1AD/Salar-Store-Data-Analysis/blob/main/Salar%20store%20Annual%20Report%20%20Dashboard.jpg" >View Dashboard </a>
+- Dashboard interaction <a href="https://github.com/ARMAN1AD/Salar-Store-Data-Analysis/blob/main/Salar%20store%20Annual%20Report%20%20Dashboard.jpg" >View Dashboard </a>
   
 ## Process
 - Verify data for any missing values and anomalies, and sort out the same.
